@@ -90,22 +90,36 @@ Welcome to my submission for the Xeno SDE Internship Assignment! This project de
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repo
-```bash
+bash
 git clone https://github.com/your-username/xeno-crm.git
 cd xeno-crm
 
-### 2. Backend 
+
+### 2. Backend
 cd backend
 npm install
 cp .env.example .env
 # Fill in environment variables (DB, Redis, OAuth, OpenAI Key)
 npm run dev
 
-###3. Frontend 
+### 3. Frontend
 cd frontend
 npm install
 npm run dev
 
-###4. API documentation
+### 4. API documentation
+
+Postman Collection: Available at root as xeno-crm.postman_collection.json
+
+---
+
+# 📬 Contact
+Made with ❤️ by [Your Name]
+📧 your.email@example.com
+🔗 https://linkedin.com/in/yourprofile
+
+
+
+
 
 
