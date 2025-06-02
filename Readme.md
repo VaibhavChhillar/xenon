@@ -99,7 +99,7 @@ cd xeno-crm
 cd backend
 npm install
 cp .env.example .env
-# Fill in environment variables (DB, Redis, OAuth, OpenAI Key)
+Fill in environment variables (DB, Redis, OAuth, OpenAI Key)
 npm run dev
 
 ### 3. Frontend
