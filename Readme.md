@@ -93,3 +93,19 @@ Welcome to my submission for the Xeno SDE Internship Assignment! This project de
 ```bash
 git clone https://github.com/your-username/xeno-crm.git
 cd xeno-crm
+
+### 2. Backend 
+cd backend
+npm install
+cp .env.example .env
+# Fill in environment variables (DB, Redis, OAuth, OpenAI Key)
+npm run dev
+
+###3. Frontend 
+cd frontend
+npm install
+npm run dev
+
+###4. API documentation
+
+
